@@ -1,1 +1,1 @@
-# Licence-Plate-Detector-and-Recogniser
+# Licence Plate Detector and Recogniser
