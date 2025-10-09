@@ -7,6 +7,8 @@ import easyocr
 import numpy as np
 import tkinter as tk
 
+#almaalmaalma
+
 icon : str = "icon.ico"
 title : str = "License plate recognition - Live feed"
 size : str = "500x265"
